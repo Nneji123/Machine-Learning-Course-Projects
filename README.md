@@ -1,3 +1,6 @@
+
+![scaled_new](https://user-images.githubusercontent.com/101701760/169406954-29bac22a-10c1-488c-b726-75377df73709.jpg)
+
 # Machine Learning Projects
 This is a Repository containing various projects I carried out while learning different Machine Learning Algorithms.
 
