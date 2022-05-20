@@ -7,7 +7,6 @@ This is a Repository containing various projects I carried out while learning di
 ## Projects
 ### Chatbot
 Problem Statement: Create a chatbot for Tesla company that can answer at least 5 questions related to their electric cars. Use Conditional Statements, Nested Ifs, and Loops in your python code, and be creative when forming your question and answers.
-
 In this Project I used simple if-else statements and nested statements to create chatbot script that takes user inputs and gives out various responses
 
 ### Restaurant App
