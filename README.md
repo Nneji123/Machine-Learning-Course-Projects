@@ -96,3 +96,14 @@ Give your conclusions about the accuracy of both the classifiers
 Calculate the score of your model using the code :
 
 clf.score(X_test,y_test)
+
+### Iris Flower Prediction
+Problem Statement: Using the same iris flower dataset, apply direct logistic regression with 70-30 split for training and testing data to predict the species of the flower.
+
+Check the accuracy of the model using confusion matrix and visualize using heatmap.
+
+Code to apply logistic regression
+
+from sklearn.linear_model import LogisticRegression
+
+model = LogisticRegression()
