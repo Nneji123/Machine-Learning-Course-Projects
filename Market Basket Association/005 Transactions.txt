@@ -1,0 +1,11 @@
+dataset = [['Milk', 'Egg', 'Bread', 'Butter'],
+           ['Milk', 'Butter', 'Egg', 'Ketchup'],
+           ['Bread', 'Butter', 'Ketchup'],
+           ['Milk', 'Bread', 'Butter'],
+           ['Cookies', 'Bread', 'Butter'],
+           ['Milk', 'Bread', 'Butter', 'Cookies'],
+           ['Milk', 'Cookies'],
+           ['Milk', 'Bread', 'Butter'],
+           ['Egg', 'Bread', 'Butter', 'Cookies'],
+           ['Milk', 'Bread', 'Butter'],
+           ['Milk', 'Bread', 'Cookies', 'Ketchup']]
